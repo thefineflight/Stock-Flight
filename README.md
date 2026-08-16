@@ -12,7 +12,9 @@ A Streamlit-based stock technical analysis dashboard for potential trade setups.
 * Technical trend analysis
 * Risk analysis
 * Performance analysis
-* Trade Setup Report 
+* Trade Setup Report
+* Dummy money for learning trades
+* Comparisons
 
 ## 🛠️ Built With
 
