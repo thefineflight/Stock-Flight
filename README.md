@@ -1,10 +1,10 @@
-# FinanceFlight
+# StockFlight
 
 A Streamlit-based stock technical analysis dashboard for potential trade setups.
 
 ## 🚀 Live App
 
-**[Open FinanceFlight](https://stockflight.streamlit.app/)**
+**[Open StockFlight](https://stockflight.streamlit.app/)**
 
 ## 📊 Features
 
