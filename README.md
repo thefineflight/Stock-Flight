@@ -4,7 +4,7 @@ A Streamlit-based stock technical analysis dashboard for potential trade setups.
 
 ## 🚀 Live App
 
-**[Open FinanceFlight](https://financeflight.streamlit.app/)**
+**[Open FinanceFlight](https://stockflight.streamlit.app/)**
 
 ## 📊 Features
 
