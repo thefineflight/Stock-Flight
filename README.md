@@ -26,7 +26,7 @@ A Streamlit-based stock technical analysis dashboard for potential trade setups.
 * yfinance
 
 ## 📌 Disclaimer
-FinanceFlight is intended for educational and informational purposes only. The analysis and signals provided by the application should not be considered financial advice or a recommendation to buy or sell any security.
+StockFlight is intended for educational and informational purposes only. The analysis and signals provided by the application should not be considered financial advice or a recommendation to buy or sell any security.
 
 ## 👨‍💻 Author
 **Arkaansh Alok**
